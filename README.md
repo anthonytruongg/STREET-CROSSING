@@ -29,3 +29,7 @@ Looking at this project at first, it was very overwhelming. I broke down the pro
 ## POST-THOUGHTS
 
 This project was really fun and I enjoyed coding the logic for the hardware. This project made me realize how much I love the major that I chose (computer engineering) because I get a good dosage of coding and working with electrical components.
+
+# FULL PROJECT DOCUMENTATION LINK
+
+https://drive.google.com/drive/folders/1tRWq2ty44gfzDVTsBHXGuH1jMdWoXVG1?usp=share_link
