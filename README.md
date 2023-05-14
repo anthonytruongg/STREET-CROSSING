@@ -29,15 +29,3 @@ Looking at this project at first, it was very overwhelming. I broke down the pro
 ## POST-THOUGHTS
 
 This project was really fun and I enjoyed coding the logic for the hardware. This project made me realize how much I love the major that I chose (computer engineering) because I get a good dosage of coding and working with electrical components.
-
-# HOW TO RUN
-
-1. Clone Repo
-2. Compile via makefile
-
-```
-git clone https://github.com/anthonytruongg/STREET-CROSSING.git
-cd repo/street-crossing
-make
-./street-crossing
-```
